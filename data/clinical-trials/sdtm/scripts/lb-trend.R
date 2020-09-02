@@ -35,15 +35,15 @@ set.seed(2357)
             trend <- lb_vis[j,'trend']
             if (trend == -1)
                 lb_vis[j,'LBSTRESN'] <- case_when(
-                    lb_vis[j,'VISITNUM'] < 2 ~ max(rnorm(1, mean + std, std), 0),
-                    lb_vis[j,'VISITNUM'] < 5 ~ max(rnorm(1, mean, std), 0),
-                    TRUE ~ max(rnorm(1, mean - std), 0)
+                    lb_vis[j,'VISITNUM'] == 0 ~ max(rnorm(1, mean + std, std), 0),
+                    #lb_vis[j,'VISITNUM'] < 5 ~ max(rnorm(1, mean, std), 0),
+                    TRUE ~ max(rnorm(1, mean - 2*runif(1)*std), 0)
                 )
             else if (trend == 1)
                 lb_vis[j,'LBSTRESN'] <- case_when(
-                    lb_vis[j,'VISITNUM'] < 2 ~ max(rnorm(1, mean - std, std), 0),
-                    lb_vis[j,'VISITNUM'] < 5 ~ max(rnorm(1, mean, std), 0),
-                    TRUE ~ max(rnorm(1, mean + std), 0)
+                    lb_vis[j,'VISITNUM'] == 0 ~ max(rnorm(1, mean - std, std), 0),
+                    #lb_vis[j,'VISITNUM'] < 5 ~ max(rnorm(1, mean, std), 0),
+                    TRUE ~ max(rnorm(1, mean + 2*runif(1)*std), 0)
                 )
             else
                 lb_vis[j,'LBSTRESN'] <- max(rnorm(1, mean, std), 0)
