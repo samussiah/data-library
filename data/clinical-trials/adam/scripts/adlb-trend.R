@@ -23,14 +23,32 @@ library(dplyr)
                 LBSTRESU != '',
                     paste0(LBTEST, ' (', LBSTRESU, ')'),
                     LBTEST
-            )
+            ),
+            AVAL = as.numeric(AVAL),
+            ANRLO = as.numeric(ANRLO),
+            ANRHI = as.numeric(ANRHI),
+            ABLFL = ifelse(AVISIT == 'Screening', 'Y', 'N')
+        )
+
+    baseline <- adlb %>%
+        filter(ABLFL == 'Y') %>%
+        select(USUBJID, PARAM, AVAL) %>%
+        rename(
+            BASE = AVAL
+        )
+
+    change_from_baseline <- adlb %>%
+        left_join(baseline) %>%
+        mutate(
+            CHG = ifelse(as.numeric(AVISITN) > 0, AVAL - BASE, NA),
+            PCHG = CHG/BASE * 100
         ) %>%
-        select(names(adsl), AVISIT, AVISITN, ADT, ADY, PARAMCAT, PARAM, AVAL, ANRLO, ANRHI) %>%
+        select(names(adsl), AVISIT, AVISITN, ADT, ADY, PARAMCAT, PARAM, AVAL, ANRLO, ANRHI, ABLFL, BASE, CHG, PCHG) %>%
         arrange(USUBJID, AVISITN, PARAMCAT, PARAM)
 
 ### Output data
     write.csv(
-        adlb,
+        change_from_baseline,
         '../adlb-trend.csv',
         row.names = FALSE,
         na = ''
