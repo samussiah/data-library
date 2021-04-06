@@ -1,0 +1,263 @@
+USUBJID,VISIT,VISITNUM,RSDT,RSDY,RSTEST,RSTESTCD,RSSTRESC
+01-022,Screening,0,2015-10-01,1,Target Response,TRGRESP,NE
+01-022,Visit 1,1,2015-11-26,57,Target Response,TRGRESP,CR
+01-022,Visit 2,2,2016-01-23,115,Target Response,TRGRESP,NE
+01-022,Visit 3,3,2016-03-11,163,Target Response,TRGRESP,CR
+01-022,Visit 4,4,2016-05-13,226,Target Response,TRGRESP,PR
+01-022,Visit 5,5,2016-07-08,282,Target Response,TRGRESP,SD
+01-022,Unscheduled 5.1,5.1,2016-07-16,290,Target Response,TRGRESP,PD
+01-022,Visit 6,6,2016-09-02,338,Target Response,TRGRESP,PD
+01-022,End of Study,7,2016-09-26,362,Target Response,TRGRESP,NE
+01-026,Screening,0,2015-02-19,1,Target Response,TRGRESP,NE
+01-026,Visit 1,1,2015-04-19,60,Target Response,TRGRESP,CR
+01-026,Visit 2,2,2015-06-12,114,Target Response,TRGRESP,PR
+01-026,Visit 3,3,2015-08-02,165,Target Response,TRGRESP,SD
+01-026,Visit 4,4,2015-10-05,229,Target Response,TRGRESP,CR
+01-026,Unscheduled 4.1,4.1,2015-10-13,237,Target Response,TRGRESP,PR
+01-026,Visit 5,5,2015-11-19,274,Target Response,TRGRESP,SD
+01-026,Visit 6,6,2016-01-16,332,Target Response,TRGRESP,NE
+01-026,End of Study,7,2016-02-19,366,Target Response,TRGRESP,PR
+01-028,Screening,0,2015-11-12,1,Target Response,TRGRESP,NE
+01-028,Visit 1,1,2016-01-11,61,Target Response,TRGRESP,CR
+01-028,Unscheduled 1.1,1.1,2016-01-19,69,Target Response,TRGRESP,NE
+01-028,Visit 2,2,2016-02-29,110,Target Response,TRGRESP,CR
+01-028,Visit 3,3,2016-04-30,171,Target Response,TRGRESP,SD
+01-028,Visit 4,4,2016-06-21,223,Target Response,TRGRESP,NE
+01-028,Visit 5,5,2016-08-10,273,Target Response,TRGRESP,PD
+01-028,Visit 6,6,2016-10-19,343,Target Response,TRGRESP,PR
+01-028,End of Study,7,2016-11-13,368,Target Response,TRGRESP,CR
+02-008,Screening,0,2015-08-17,1,Target Response,TRGRESP,NE
+02-008,Visit 1,1,2015-10-06,51,Target Response,TRGRESP,NE
+02-008,Visit 2,2,2015-12-10,116,Target Response,TRGRESP,PD
+02-008,Visit 3,3,2016-01-24,161,Target Response,TRGRESP,PD
+02-008,Visit 4,4,2016-04-03,231,Target Response,TRGRESP,SD
+02-008,Visit 5,5,2016-05-28,286,Target Response,TRGRESP,NE
+02-008,Visit 6,6,2016-07-14,333,Target Response,TRGRESP,PR
+02-008,End of Study,7,2016-08-25,375,Target Response,TRGRESP,CR
+02-010,Screening,0,2015-07-26,1,Target Response,TRGRESP,NE
+02-010,Visit 1,1,2015-09-14,51,Target Response,TRGRESP,PD
+02-010,Visit 2,2,2015-11-08,106,Target Response,TRGRESP,NE
+02-010,Visit 3,3,2016-01-06,165,Target Response,TRGRESP,PD
+02-010,Visit 4,4,2016-03-01,220,Target Response,TRGRESP,NE
+02-010,Visit 5,5,2016-05-06,286,Target Response,TRGRESP,PD
+02-010,Unscheduled 5.1,5.1,2016-05-14,294,Target Response,TRGRESP,SD
+02-010,Visit 6,6,2016-06-30,341,Target Response,TRGRESP,PR
+02-010,Unscheduled 6.1,6.1,2016-07-08,349,Target Response,TRGRESP,PR
+02-010,End of Study,7,2016-07-23,364,Target Response,TRGRESP,NE
+02-013,Screening,0,2015-12-29,1,Target Response,TRGRESP,NE
+02-013,Visit 1,1,2016-02-18,52,Target Response,TRGRESP,CR
+02-013,Visit 2,2,2016-04-25,119,Target Response,TRGRESP,NE
+02-013,Visit 3,3,2016-06-17,172,Target Response,TRGRESP,CR
+02-013,Visit 4,4,2016-08-08,224,Target Response,TRGRESP,NE
+02-013,Visit 5,5,2016-10-09,286,Target Response,TRGRESP,PR
+02-013,Visit 6,6,2016-11-23,331,Target Response,TRGRESP,CR
+02-013,End of Study,7,2016-12-31,369,Target Response,TRGRESP,PR
+02-017,Screening,0,2015-04-06,1,Target Response,TRGRESP,NE
+02-017,Visit 1,1,2015-06-06,62,Target Response,TRGRESP,PD
+02-017,Unscheduled 1.1,1.1,2015-06-14,70,Target Response,TRGRESP,PR
+02-017,Visit 2,2,2015-07-20,106,Target Response,TRGRESP,CR
+02-017,Visit 3,3,2015-09-15,163,Target Response,TRGRESP,NE
+02-017,Visit 4,4,2015-11-16,225,Target Response,TRGRESP,SD
+02-017,Visit 5,5,2016-01-03,273,Target Response,TRGRESP,PR
+02-017,Visit 6,6,2016-03-04,334,Target Response,TRGRESP,PD
+02-017,End of Study,7,2016-04-06,367,Target Response,TRGRESP,NE
+02-018,Screening,0,2015-11-23,1,Target Response,TRGRESP,NE
+02-018,Visit 1,1,2016-01-13,52,Target Response,TRGRESP,NE
+02-018,Visit 2,2,2016-03-15,114,Target Response,TRGRESP,NE
+02-018,Visit 3,3,2016-05-07,167,Target Response,TRGRESP,NE
+02-018,Visit 4,4,2016-06-27,218,Target Response,TRGRESP,NE
+02-018,Visit 5,5,2016-09-02,285,Target Response,TRGRESP,PD
+02-018,Visit 6,6,2016-10-19,332,Target Response,TRGRESP,PD
+02-018,End of Study,7,2016-11-28,372,Target Response,TRGRESP,PR
+02-023,Screening,0,2015-12-06,1,Target Response,TRGRESP,NE
+02-023,Visit 1,1,2016-01-29,55,Target Response,TRGRESP,NE
+02-023,Visit 2,2,2016-03-29,115,Target Response,TRGRESP,PR
+02-023,Visit 3,3,2016-05-21,168,Target Response,TRGRESP,SD
+02-023,Visit 4,4,2016-07-23,231,Target Response,TRGRESP,CR
+02-023,Visit 5,5,2016-09-14,284,Target Response,TRGRESP,SD
+02-023,Visit 6,6,2016-11-08,339,Target Response,TRGRESP,SD
+02-023,End of Study,7,2016-12-03,364,Target Response,TRGRESP,PR
+02-026,Screening,0,2015-04-03,1,Target Response,TRGRESP,NE
+02-026,Visit 1,1,2015-05-21,49,Target Response,TRGRESP,NE
+02-026,Visit 2,2,2015-07-27,116,Target Response,TRGRESP,NE
+02-026,Visit 3,3,2015-09-20,171,Target Response,TRGRESP,PR
+02-026,Unscheduled 3.1,3.1,2015-09-28,179,Target Response,TRGRESP,PR
+02-026,Visit 4,4,2015-11-13,225,Target Response,TRGRESP,NE
+02-026,Visit 5,5,2016-01-11,284,Target Response,TRGRESP,NE
+02-026,Visit 6,6,2016-03-01,334,Target Response,TRGRESP,PD
+02-026,End of Study,7,2016-03-23,356,Target Response,TRGRESP,NE
+02-027,Screening,0,2015-03-08,1,Target Response,TRGRESP,NE
+02-027,Visit 1,1,2015-05-08,62,Target Response,TRGRESP,NE
+02-027,Visit 2,2,2015-06-22,107,Target Response,TRGRESP,CR
+02-027,Visit 3,3,2015-08-24,170,Target Response,TRGRESP,NE
+02-027,Visit 4,4,2015-10-21,228,Target Response,TRGRESP,NE
+02-027,Unscheduled 4.1,4.1,2015-10-29,236,Target Response,TRGRESP,CR
+02-027,Visit 5,5,2015-12-11,279,Target Response,TRGRESP,CR
+02-027,Visit 6,6,2016-02-02,332,Target Response,TRGRESP,SD
+02-027,End of Study,7,2016-03-04,363,Target Response,TRGRESP,SD
+03-002,Screening,0,2015-09-02,1,Target Response,TRGRESP,NE
+03-002,Visit 1,1,2015-10-22,51,Target Response,TRGRESP,PR
+03-002,Visit 2,2,2015-12-15,105,Target Response,TRGRESP,PD
+03-002,Visit 3,3,2016-02-13,165,Target Response,TRGRESP,NE
+03-002,Visit 4,4,2016-04-11,223,Target Response,TRGRESP,PR
+03-002,Visit 5,5,2016-06-09,282,Target Response,TRGRESP,NE
+03-002,Visit 6,6,2016-07-26,329,Target Response,TRGRESP,SD
+03-002,End of Study,7,2016-08-22,356,Target Response,TRGRESP,PR
+03-004,Screening,0,2015-12-03,1,Target Response,TRGRESP,NE
+03-004,Visit 1,1,2016-01-31,60,Target Response,TRGRESP,NE
+03-004,Visit 2,2,2016-03-30,119,Target Response,TRGRESP,SD
+03-004,Visit 3,3,2016-05-24,174,Target Response,TRGRESP,NE
+03-004,Visit 4,4,2016-07-17,228,Target Response,TRGRESP,CR
+03-004,Visit 5,5,2016-09-05,278,Target Response,TRGRESP,NE
+03-004,Visit 6,6,2016-11-07,341,Target Response,TRGRESP,PD
+03-004,End of Study,7,2016-12-07,371,Target Response,TRGRESP,PD
+03-007,Screening,0,2015-08-18,1,Target Response,TRGRESP,NE
+03-007,Visit 1,1,2015-10-18,62,Target Response,TRGRESP,PR
+03-007,Visit 2,2,2015-12-06,111,Target Response,TRGRESP,PR
+03-007,Visit 3,3,2016-02-01,168,Target Response,TRGRESP,CR
+03-007,Visit 4,4,2016-04-03,230,Target Response,TRGRESP,NE
+03-007,Visit 5,5,2016-05-25,282,Target Response,TRGRESP,NE
+03-007,Visit 6,6,2016-07-13,331,Target Response,TRGRESP,PR
+03-007,End of Study,7,2016-08-22,371,Target Response,TRGRESP,NE
+03-010,Screening,0,2015-02-07,1,Target Response,TRGRESP,NE
+03-010,Visit 1,1,2015-04-03,56,Target Response,TRGRESP,NE
+03-010,Visit 2,2,2015-06-05,119,Target Response,TRGRESP,NE
+03-010,Visit 3,3,2015-07-27,171,Target Response,TRGRESP,NE
+03-010,Unscheduled 3.1,3.1,2015-08-04,179,Target Response,TRGRESP,PD
+03-010,Visit 4,4,2015-09-19,225,Target Response,TRGRESP,PR
+03-010,Visit 5,5,2015-11-12,279,Target Response,TRGRESP,CR
+03-010,Visit 6,6,2016-01-08,336,Target Response,TRGRESP,PD
+03-010,End of Study,7,2016-02-05,364,Target Response,TRGRESP,PD
+03-015,Screening,0,2015-07-21,1,Target Response,TRGRESP,NE
+03-015,Visit 1,1,2015-09-13,55,Target Response,TRGRESP,NE
+03-015,Visit 2,2,2015-11-02,105,Target Response,TRGRESP,PR
+03-015,Visit 3,3,2016-01-05,169,Target Response,TRGRESP,PR
+03-015,Visit 4,4,2016-03-03,227,Target Response,TRGRESP,PD
+03-015,Visit 5,5,2016-05-02,287,Target Response,TRGRESP,CR
+03-015,Visit 6,6,2016-06-15,331,Target Response,TRGRESP,PD
+03-015,End of Study,7,2016-07-13,359,Target Response,TRGRESP,PD
+03-019,Screening,0,2015-11-06,1,Target Response,TRGRESP,NE
+03-019,Visit 1,1,2016-01-02,58,Target Response,TRGRESP,PR
+03-019,Visit 2,2,2016-02-27,114,Target Response,TRGRESP,PD
+03-019,Visit 3,3,2016-04-19,166,Target Response,TRGRESP,PD
+03-019,Visit 4,4,2016-06-11,219,Target Response,TRGRESP,PD
+03-019,Visit 5,5,2016-08-12,281,Target Response,TRGRESP,PD
+03-019,Visit 6,6,2016-10-10,340,Target Response,TRGRESP,CR
+03-019,End of Study,7,2016-11-13,374,Target Response,TRGRESP,CR
+04-002,Screening,0,2015-06-19,1,Target Response,TRGRESP,NE
+04-002,Visit 1,1,2015-08-11,54,Target Response,TRGRESP,CR
+04-002,Unscheduled 1.1,1.1,2015-08-19,62,Target Response,TRGRESP,PR
+04-002,Visit 2,2,2015-10-13,117,Target Response,TRGRESP,SD
+04-002,Visit 3,3,2015-12-09,174,Target Response,TRGRESP,PD
+04-002,Visit 4,4,2016-02-04,231,Target Response,TRGRESP,SD
+04-002,Visit 5,5,2016-03-19,275,Target Response,TRGRESP,NE
+04-002,Visit 6,6,2016-05-14,331,Target Response,TRGRESP,PD
+04-002,End of Study,7,2016-06-15,363,Target Response,TRGRESP,CR
+04-005,Screening,0,2015-08-17,1,Target Response,TRGRESP,NE
+04-005,Visit 1,1,2015-10-05,50,Target Response,TRGRESP,NE
+04-005,Visit 2,2,2015-12-12,118,Target Response,TRGRESP,PR
+04-005,Visit 3,3,2016-01-31,168,Target Response,TRGRESP,CR
+04-005,Visit 4,4,2016-03-28,225,Target Response,TRGRESP,NE
+04-005,Visit 5,5,2016-05-22,280,Target Response,TRGRESP,CR
+04-005,Visit 6,6,2016-07-21,340,Target Response,TRGRESP,PR
+04-005,End of Study,7,2016-08-16,366,Target Response,TRGRESP,CR
+04-007,Screening,0,2015-04-15,1,Target Response,TRGRESP,NE
+04-007,Visit 1,1,2015-06-04,51,Target Response,TRGRESP,CR
+04-007,Visit 2,2,2015-08-05,113,Target Response,TRGRESP,CR
+04-007,Visit 3,3,2015-09-29,168,Target Response,TRGRESP,PR
+04-007,Visit 4,4,2015-11-26,226,Target Response,TRGRESP,CR
+04-007,Visit 5,5,2016-01-23,284,Target Response,TRGRESP,SD
+04-007,Visit 6,6,2016-03-09,330,Target Response,TRGRESP,NE
+04-007,End of Study,7,2016-04-12,364,Target Response,TRGRESP,PD
+04-008,Screening,0,2015-04-10,1,Target Response,TRGRESP,NE
+04-008,Visit 1,1,2015-06-07,59,Target Response,TRGRESP,PR
+04-008,Visit 2,2,2015-07-29,111,Target Response,TRGRESP,NE
+04-008,Visit 3,3,2015-09-21,165,Target Response,TRGRESP,PD
+04-008,Visit 4,4,2015-11-17,222,Target Response,TRGRESP,PR
+04-008,Visit 5,5,2016-01-10,276,Target Response,TRGRESP,SD
+04-008,Visit 6,6,2016-03-08,334,Target Response,TRGRESP,NE
+04-008,End of Study,7,2016-04-01,358,Target Response,TRGRESP,PD
+04-011,Screening,0,2015-10-16,1,Target Response,TRGRESP,NE
+04-011,Visit 1,1,2015-12-15,61,Target Response,TRGRESP,PD
+04-011,Visit 2,2,2016-02-04,112,Target Response,TRGRESP,CR
+04-011,Visit 3,3,2016-04-06,174,Target Response,TRGRESP,PR
+04-011,Visit 4,4,2016-05-20,218,Target Response,TRGRESP,PR
+04-011,Visit 5,5,2016-07-22,281,Target Response,TRGRESP,PR
+04-011,Visit 6,6,2016-09-15,336,Target Response,TRGRESP,SD
+04-011,End of Study,7,2016-10-08,359,Target Response,TRGRESP,NE
+04-012,Screening,0,2015-06-26,1,Target Response,TRGRESP,NE
+04-012,Visit 1,1,2015-08-14,50,Target Response,TRGRESP,NE
+04-012,Visit 2,2,2015-10-11,108,Target Response,TRGRESP,NE
+04-012,Visit 3,3,2015-12-17,175,Target Response,TRGRESP,CR
+04-012,Visit 4,4,2016-02-05,225,Target Response,TRGRESP,PD
+04-012,Visit 5,5,2016-04-02,282,Target Response,TRGRESP,CR
+04-012,Visit 6,6,2016-05-28,338,Target Response,TRGRESP,PD
+04-012,Unscheduled 6.1,6.1,2016-06-05,346,Target Response,TRGRESP,SD
+04-012,End of Study,7,2016-06-19,360,Target Response,TRGRESP,NE
+04-013,Screening,0,2015-04-22,1,Target Response,TRGRESP,NE
+04-013,Visit 1,1,2015-06-21,61,Target Response,TRGRESP,PD
+04-013,Visit 2,2,2015-08-13,114,Target Response,TRGRESP,SD
+04-013,Visit 3,3,2015-09-29,161,Target Response,TRGRESP,CR
+04-013,Visit 4,4,2015-12-06,229,Target Response,TRGRESP,PD
+04-013,Visit 5,5,2016-01-31,285,Target Response,TRGRESP,SD
+04-013,Visit 6,6,2016-03-27,341,Target Response,TRGRESP,PR
+04-013,End of Study,7,2016-04-24,369,Target Response,TRGRESP,PD
+04-024,Screening,0,2015-05-05,1,Target Response,TRGRESP,NE
+04-024,Visit 1,1,2015-06-29,56,Target Response,TRGRESP,PR
+04-024,Visit 2,2,2015-08-23,111,Target Response,TRGRESP,PR
+04-024,Visit 3,3,2015-10-24,173,Target Response,TRGRESP,PD
+04-024,Visit 4,4,2015-12-21,231,Target Response,TRGRESP,PD
+04-024,Visit 5,5,2016-02-11,283,Target Response,TRGRESP,NE
+04-024,Visit 6,6,2016-04-05,337,Target Response,TRGRESP,PD
+04-024,End of Study,7,2016-04-29,361,Target Response,TRGRESP,PD
+05-003,Screening,0,2015-09-26,1,Target Response,TRGRESP,NE
+05-003,Visit 1,1,2015-11-21,57,Target Response,TRGRESP,SD
+05-003,Visit 2,2,2016-01-19,116,Target Response,TRGRESP,CR
+05-003,Visit 3,3,2016-03-10,167,Target Response,TRGRESP,NE
+05-003,Visit 4,4,2016-05-10,228,Target Response,TRGRESP,SD
+05-003,Visit 5,5,2016-07-05,284,Target Response,TRGRESP,SD
+05-003,Unscheduled 5.1,5.1,2016-07-13,292,Target Response,TRGRESP,NE
+05-003,Visit 6,6,2016-08-19,329,Target Response,TRGRESP,CR
+05-003,Unscheduled 6.1,6.1,2016-08-27,337,Target Response,TRGRESP,SD
+05-003,End of Study,7,2016-09-18,359,Target Response,TRGRESP,CR
+05-009,Screening,0,2015-12-16,1,Target Response,TRGRESP,NE
+05-009,Visit 1,1,2016-02-10,57,Target Response,TRGRESP,PR
+05-009,Visit 2,2,2016-03-31,107,Target Response,TRGRESP,PR
+05-009,Visit 3,3,2016-06-06,174,Target Response,TRGRESP,SD
+05-009,Visit 4,4,2016-07-22,220,Target Response,TRGRESP,PR
+05-009,Visit 5,5,2016-09-18,278,Target Response,TRGRESP,PR
+05-009,Visit 6,6,2016-11-09,330,Target Response,TRGRESP,CR
+05-009,End of Study,7,2016-12-11,362,Target Response,TRGRESP,NE
+05-010,Screening,0,2015-02-06,1,Target Response,TRGRESP,NE
+05-010,Visit 1,1,2015-04-05,59,Target Response,TRGRESP,PD
+05-010,Visit 2,2,2015-06-02,117,Target Response,TRGRESP,PD
+05-010,Visit 3,3,2015-07-21,166,Target Response,TRGRESP,PD
+05-010,Visit 4,4,2015-09-14,221,Target Response,TRGRESP,PR
+05-010,Visit 5,5,2015-11-08,276,Target Response,TRGRESP,PR
+05-010,Visit 6,6,2016-01-06,335,Target Response,TRGRESP,CR
+05-010,End of Study,7,2016-02-05,365,Target Response,TRGRESP,PD
+05-012,Screening,0,2015-04-18,1,Target Response,TRGRESP,NE
+05-012,Visit 1,1,2015-06-05,49,Target Response,TRGRESP,SD
+05-012,Visit 2,2,2015-08-11,116,Target Response,TRGRESP,PR
+05-012,Visit 3,3,2015-09-25,161,Target Response,TRGRESP,NE
+05-012,Visit 4,4,2015-11-30,227,Target Response,TRGRESP,CR
+05-012,Visit 5,5,2016-01-16,274,Target Response,TRGRESP,SD
+05-012,Visit 6,6,2016-03-21,339,Target Response,TRGRESP,SD
+05-012,End of Study,7,2016-04-24,373,Target Response,TRGRESP,NE
+05-013,Screening,0,2015-10-22,1,Target Response,TRGRESP,NE
+05-013,Unscheduled 0.1,0.1,2015-10-30,9,Target Response,TRGRESP,CR
+05-013,Visit 1,1,2015-12-15,55,Target Response,TRGRESP,NE
+05-013,Visit 2,2,2016-02-08,110,Target Response,TRGRESP,PR
+05-013,Visit 3,3,2016-04-05,167,Target Response,TRGRESP,SD
+05-013,Visit 4,4,2016-05-28,220,Target Response,TRGRESP,SD
+05-013,Visit 5,5,2016-08-01,285,Target Response,TRGRESP,NE
+05-013,Visit 6,6,2016-09-22,337,Target Response,TRGRESP,NE
+05-013,End of Study,7,2016-10-13,358,Target Response,TRGRESP,PD
+05-021,Screening,0,2015-01-20,1,Target Response,TRGRESP,NE
+05-021,Visit 1,1,2015-03-14,54,Target Response,TRGRESP,CR
+05-021,Visit 2,2,2015-05-16,117,Target Response,TRGRESP,PR
+05-021,Visit 3,3,2015-07-09,171,Target Response,TRGRESP,CR
+05-021,Visit 4,4,2015-08-31,224,Target Response,TRGRESP,NE
+05-021,Visit 5,5,2015-11-02,287,Target Response,TRGRESP,CR
+05-021,Visit 6,6,2015-12-14,329,Target Response,TRGRESP,CR
+05-021,End of Study,7,2016-01-13,359,Target Response,TRGRESP,CR
