@@ -64,6 +64,22 @@
         "nCols": 3
     },
     {
+        "relPath": "./data/clinical-trials/data-dictionaries/responses.csv",
+        "path": "responses.csv",
+        "name": "responses",
+        "nRows": 6,
+        "cols": [
+            "RSTESTCD",
+            "RSTEST",
+            "RSCAT",
+            "RSSTRESC",
+            "RSSTRESN",
+            "RSPROB",
+            "RSCOLOR"
+        ],
+        "nCols": 7
+    },
+    {
         "relPath": "./data/clinical-trials/data-dictionaries/schedule-of-events.csv",
         "path": "schedule-of-events.csv",
         "name": "schedule-of-events",

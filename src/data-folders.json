@@ -1,7 +1,7 @@
 [
     {
         "relPath": "./data/clinical-trials/sdtm",
-        "nDataFiles": 6,
+        "nDataFiles": 8,
         "dataFiles": [
             {
                 "fileName": "ae.csv",
@@ -19,9 +19,19 @@
                 "rel_url": "./data/clinical-trials/sdtm/dm.csv"
             },
             {
+                "fileName": "lb-trend.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/lb-trend.csv",
+                "rel_url": "./data/clinical-trials/sdtm/lb-trend.csv"
+            },
+            {
                 "fileName": "lb.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/lb.csv",
                 "rel_url": "./data/clinical-trials/sdtm/lb.csv"
+            },
+            {
+                "fileName": "rs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/sdtm/rs.csv",
+                "rel_url": "./data/clinical-trials/sdtm/rs.csv"
             },
             {
                 "fileName": "sv.csv",
@@ -186,7 +196,7 @@
     },
     {
         "relPath": "./data/clinical-trials/adam",
-        "nDataFiles": 5,
+        "nDataFiles": 7,
         "dataFiles": [
             {
                 "fileName": "adae.csv",
@@ -199,9 +209,19 @@
                 "rel_url": "./data/clinical-trials/adam/adcm.csv"
             },
             {
+                "fileName": "adlb-trend.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adlb-trend.csv",
+                "rel_url": "./data/clinical-trials/adam/adlb-trend.csv"
+            },
+            {
                 "fileName": "adlb.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adlb.csv",
                 "rel_url": "./data/clinical-trials/adam/adlb.csv"
+            },
+            {
+                "fileName": "adrs.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/adam/adrs.csv",
+                "rel_url": "./data/clinical-trials/adam/adrs.csv"
             },
             {
                 "fileName": "adsl.csv",
@@ -357,7 +377,7 @@
     },
     {
         "relPath": "./data/clinical-trials/data-dictionaries",
-        "nDataFiles": 9,
+        "nDataFiles": 10,
         "dataFiles": [
             {
                 "fileName": "adverse-events.csv",
@@ -383,6 +403,11 @@
                 "fileName": "medications.csv",
                 "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/medications.csv",
                 "rel_url": "./data/clinical-trials/data-dictionaries/medications.csv"
+            },
+            {
+                "fileName": "responses.csv",
+                "download_url": "https://raw.githubusercontent.com/RhoInc/data-library/master/data/clinical-trials/data-dictionaries/responses.csv",
+                "rel_url": "./data/clinical-trials/data-dictionaries/responses.csv"
             },
             {
                 "fileName": "schedule-of-events.csv",

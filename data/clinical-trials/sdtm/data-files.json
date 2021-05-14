@@ -68,6 +68,26 @@
         "nCols": 14
     },
     {
+        "relPath": "./data/clinical-trials/sdtm/lb-trend.csv",
+        "path": "lb-trend.csv",
+        "name": "lb-trend",
+        "nRows": 13708,
+        "cols": [
+            "USUBJID",
+            "VISIT",
+            "VISITNUM",
+            "LBDT",
+            "LBDY",
+            "LBCAT",
+            "LBTEST",
+            "LBSTRESU",
+            "LBSTRESN",
+            "LBSTNRLO",
+            "LBSTNRHI"
+        ],
+        "nCols": 11
+    },
+    {
         "relPath": "./data/clinical-trials/sdtm/lb.csv",
         "path": "lb.csv",
         "name": "lb",
@@ -86,6 +106,27 @@
             "LBSTNRHI"
         ],
         "nCols": 11
+    },
+    {
+        "relPath": "./data/clinical-trials/sdtm/rs.csv",
+        "path": "rs.csv",
+        "name": "rs",
+        "nRows": 404,
+        "cols": [
+            "USUBJID",
+            "VISIT",
+            "VISITNUM",
+            "RSDT",
+            "RSDY",
+            "RSTESTCD",
+            "RSTEST",
+            "RSCAT",
+            "RSSTRESC",
+            "RSSTRESN",
+            "RSPROB",
+            "RSCOLOR"
+        ],
+        "nCols": 12
     },
     {
         "relPath": "./data/clinical-trials/sdtm/sv.csv",
