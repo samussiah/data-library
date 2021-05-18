@@ -1,7 +1,12 @@
 RSTESTCD,RSTEST,RSCAT,RSSTRESC,RSSTRESN,RSPROB,RSCOLOR
-BOR,Best Overall Response,RECIST 1.1,CR,0,.10,#2166ac
-BOR,Best Overall Response,RECIST 1.1,PR,1,.25,#4393c3
-BOR,Best Overall Response,RECIST 1.1,SD,2,.35,#92c5de
-BOR,Best Overall Response,RECIST 1.1,NE,3,.05,#969696
-BOR,Best Overall Response,RECIST 1.1,UN,4,.00,#bdbdbd
-BOR,Best Overall Response,RECIST 1.1,PD,5,.25,#d6604d
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,.10,#2166ac
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,.25,#4393c3
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,.35,#92c5de
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,.00,#bdbdbd
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,.05,#969696
+BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,.25,#b2182b
+PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,.70,#92c5de
+PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,.00,#bdbdbd
+PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,.05,#969696
+PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,.05,#f4a582
+PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,.20,#b2182b

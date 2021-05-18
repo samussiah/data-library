@@ -1,405 +1,804 @@
 USUBJID,VISIT,VISITNUM,RSDT,RSDY,RSTESTCD,RSTEST,RSCAT,RSSTRESC,RSSTRESN,RSPROB,RSCOLOR
-01-002,Screening,0,2015-05-30,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-002,Visit 2,2,2015-09-15,109,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-002,Visit 3,3,2015-11-06,161,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-003,Screening,0,2015-08-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-003,Visit 1,1,2015-10-06,55,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-003,Visit 2,2,2015-12-04,114,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-004,Screening,0,2015-01-12,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-005,Screening,0,2015-11-11,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-005,Visit 1,1,2016-01-02,53,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-008,Screening,0,2015-11-21,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-009,Screening,0,2015-11-25,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-009,Visit 2,2,2016-03-18,115,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-009,Visit 3,3,2016-05-06,164,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-010,Screening,0,2015-01-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-010,Visit 1,1,2015-02-26,52,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-010,Visit 2,2,2015-04-28,113,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-011,Screening,0,2015-10-04,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-012,Screening,0,2015-04-18,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-012,Visit 1,1,2015-06-11,55,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-01-012,Visit 2,2,2015-07-31,105,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-013,Screening,0,2015-07-15,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-013,Visit 1,1,2015-09-15,63,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-01-013,Visit 2,2,2015-11-04,113,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-01-013,Visit 3,3,2016-01-04,174,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-013,Visit 4,4,2016-02-29,230,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-013,Unscheduled 5.1,5.1,2016-05-02,293,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-014,Screening,0,2015-07-24,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-014,Visit 1,1,2015-09-23,62,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-015,Screening,0,2015-04-28,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-015,Visit 1,1,2015-06-29,63,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-015,Unscheduled 1.1,1.1,2015-07-07,71,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-015,Visit 2,2,2015-08-24,119,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-016,Screening,0,2015-12-21,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-016,Visit 1,1,2016-02-19,61,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-016,Visit 2,2,2016-04-03,105,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-016,Visit 3,3,2016-06-09,172,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-01-016,Visit 4,4,2016-08-04,228,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-017,Screening,0,2015-02-12,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-017,Visit 1,1,2015-04-11,59,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-017,Visit 2,2,2015-05-31,109,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-017,Visit 3,3,2015-08-02,172,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-018,Screening,0,2015-02-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-018,Visit 1,1,2015-04-03,50,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-019,Screening,0,2015-04-24,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-019,Unscheduled 0.1,0.1,2015-05-02,9,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-019,Visit 1,1,2015-06-23,61,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-019,Visit 2,2,2015-08-18,117,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-019,Visit 4,4,2015-12-01,222,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-021,Screening,0,2015-10-04,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-022,Screening,0,2015-10-01,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-022,Visit 1,1,2015-11-26,57,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-022,Visit 2,2,2016-01-23,115,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-023,Screening,0,2015-03-29,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-023,Unscheduled 1.1,1.1,2015-06-06,70,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-024,Screening,0,2015-04-23,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-024,Visit 1,1,2015-06-10,49,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-024,Visit 2,2,2015-08-08,108,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-025,Screening,0,2015-06-22,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-025,Visit 1,1,2015-08-09,49,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Screening,0,2015-02-19,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-026,Visit 1,1,2015-04-19,60,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-026,Visit 2,2,2015-06-12,114,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Visit 3,3,2015-08-02,165,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Visit 4,4,2015-10-05,229,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Unscheduled 4.1,4.1,2015-10-13,237,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Visit 5,5,2015-11-19,274,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-026,Visit 6,6,2016-01-16,332,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-026,End of Study,7,2016-02-19,366,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-027,Screening,0,2015-06-01,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-027,Visit 1,1,2015-07-24,54,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-028,Screening,0,2015-11-12,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-028,Visit 1,1,2016-01-11,61,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-028,Unscheduled 1.1,1.1,2016-01-19,69,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-028,Visit 2,2,2016-02-29,110,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-028,Visit 3,3,2016-04-30,171,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-01-029,Screening,0,2015-06-10,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-01-029,Visit 1,1,2015-07-28,49,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-01-029,Visit 2,2,2015-10-02,115,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-01-029,Visit 3,3,2015-11-23,167,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-002,Screening,0,2015-03-16,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-002,Unscheduled 0.1,0.1,2015-03-24,9,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-003,Screening,0,2015-04-27,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-003,Visit 1,1,2015-06-24,59,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-003,Visit 2,2,2015-08-13,109,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-003,Visit 3,3,2015-10-06,163,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-004,Screening,0,2015-09-30,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-008,Screening,0,2015-08-17,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-008,Visit 1,1,2015-10-06,51,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-008,Visit 2,2,2015-12-10,116,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-009,Screening,0,2015-12-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-009,Visit 1,1,2016-02-03,53,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-010,Screening,0,2015-07-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-010,Visit 1,1,2015-09-14,51,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-010,Visit 2,2,2015-11-08,106,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-010,Visit 3,3,2016-01-06,165,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-011,Screening,0,2015-10-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-012,Screening,0,2015-09-30,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-012,Unscheduled 0.1,0.1,2015-10-08,9,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-012,Visit 1,1,2015-11-25,57,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-012,Unscheduled 1.1,1.1,2015-12-03,65,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-012,Visit 2,2,2016-01-22,115,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-012,Visit 3,3,2016-03-10,163,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-012,Visit 4,4,2016-05-14,228,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-013,Screening,0,2015-12-29,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-013,Visit 1,1,2016-02-18,52,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-013,Visit 2,2,2016-04-25,119,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-014,Screening,0,2015-04-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-014,Visit 1,1,2015-06-10,59,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-014,Unscheduled 1.1,1.1,2015-06-18,67,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-014,Visit 2,2,2015-07-28,107,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-015,Screening,0,2015-02-24,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-017,Screening,0,2015-04-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-017,Visit 1,1,2015-06-06,62,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-017,Unscheduled 1.1,1.1,2015-06-14,70,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-018,Screening,0,2015-11-23,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-018,Visit 1,1,2016-01-13,52,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-018,Visit 3,3,2016-05-07,167,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-018,Visit 4,4,2016-06-27,218,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-019,Screening,0,2015-02-16,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-019,Unscheduled 1.1,1.1,2015-04-20,64,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-019,Visit 2,2,2015-06-03,108,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-019,Visit 3,3,2015-07-26,161,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-019,Visit 4,4,2015-09-26,223,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-02-021,Screening,0,2015-10-01,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-021,Visit 1,1,2015-11-29,60,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-021,Visit 2,2,2016-01-26,118,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-021,Visit 3,3,2016-03-19,171,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-022,Screening,0,2015-12-27,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-023,Screening,0,2015-12-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-023,Visit 1,1,2016-01-29,55,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-023,Visit 2,2,2016-03-29,115,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-023,Visit 3,3,2016-05-21,168,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-023,Visit 4,4,2016-07-23,231,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-02-023,Visit 5,5,2016-09-14,284,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-024,Screening,0,2015-02-28,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-026,Screening,0,2015-04-03,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-026,Visit 3,3,2015-09-20,171,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-026,Unscheduled 3.1,3.1,2015-09-28,179,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-026,Visit 6,6,2016-03-01,334,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-027,Screening,0,2015-03-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-027,Visit 1,1,2015-05-08,62,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-027,Visit 2,2,2015-06-22,107,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-027,Visit 3,3,2015-08-24,170,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-027,Unscheduled 4.1,4.1,2015-10-29,236,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-027,Visit 5,5,2015-12-11,279,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-027,Visit 6,6,2016-02-02,332,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-027,End of Study,7,2016-03-04,363,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-028,Screening,0,2015-04-25,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-028,Visit 1,1,2015-06-12,49,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-02-029,Screening,0,2015-04-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-02-029,Visit 2,2,2015-08-19,116,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-02-029,Visit 3,3,2015-10-06,164,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-02-029,Visit 4,4,2015-12-11,230,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-002,Screening,0,2015-09-02,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-002,Visit 1,1,2015-10-22,51,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-002,Visit 2,2,2015-12-15,105,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-002,Visit 3,3,2016-02-13,165,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-002,Visit 4,4,2016-04-11,223,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-002,Visit 6,6,2016-07-26,329,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-002,End of Study,7,2016-08-22,356,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-003,Screening,0,2015-05-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-003,Visit 1,1,2015-07-14,50,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-003,Visit 2,2,2015-09-11,109,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-004,Screening,0,2015-12-03,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-004,Visit 1,1,2016-01-31,60,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-004,Visit 2,2,2016-03-30,119,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-004,Visit 4,4,2016-07-17,228,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-004,Visit 5,5,2016-09-05,278,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-005,Screening,0,2015-04-15,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-005,Visit 1,1,2015-06-03,50,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-005,Visit 3,3,2015-09-25,164,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-006,Screening,0,2015-05-24,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-006,Visit 1,1,2015-07-16,54,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-007,Screening,0,2015-08-18,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-007,Visit 1,1,2015-10-18,62,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-007,Visit 2,2,2015-12-06,111,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-007,Visit 3,3,2016-02-01,168,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-007,Visit 4,4,2016-04-03,230,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-03-007,Visit 6,6,2016-07-13,331,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-008,Screening,0,2015-03-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-008,Visit 2,2,2015-06-29,114,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-010,Screening,0,2015-02-07,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-010,Visit 1,1,2015-04-03,56,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-012,Screening,0,2015-08-19,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-012,Unscheduled 0.1,0.1,2015-08-27,9,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-03-012,Visit 1,1,2015-10-08,51,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-013,Screening,0,2015-10-28,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-013,Visit 2,2,2016-02-18,114,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-014,Screening,0,2015-02-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-015,Screening,0,2015-07-21,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-015,Visit 1,1,2015-09-13,55,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-015,Visit 2,2,2015-11-02,105,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-016,Screening,0,2015-05-04,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-016,Unscheduled 1.1,1.1,2015-07-02,60,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-017,Screening,0,2015-06-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-017,Visit 1,1,2015-08-18,54,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-018,Screening,0,2015-05-30,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-018,Visit 1,1,2015-07-26,58,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-018,Unscheduled 1.1,1.1,2015-08-03,66,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-03-019,Screening,0,2015-11-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-019,Visit 1,1,2016-01-02,58,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-019,Visit 2,2,2016-02-27,114,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-019,Visit 3,3,2016-04-19,166,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-019,Visit 4,4,2016-06-11,219,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-019,Visit 5,5,2016-08-12,281,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-019,Visit 6,6,2016-10-10,340,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-019,End of Study,7,2016-11-13,374,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-020,Screening,0,2015-08-09,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-020,Visit 1,1,2015-10-10,63,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-021,Screening,0,2015-09-21,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-021,Visit 1,1,2015-11-22,63,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-03-021,Visit 2,2,2016-01-06,108,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-022,Screening,0,2015-05-14,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-022,Visit 1,1,2015-07-09,57,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-022,Visit 2,2,2015-09-01,111,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-023,Screening,0,2015-03-25,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-023,Unscheduled 0.1,0.1,2015-04-02,9,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-025,Screening,0,2015-04-29,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-025,Unscheduled 0.1,0.1,2015-05-07,9,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-03-025,Visit 1,1,2015-06-29,62,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-026,Screening,0,2015-10-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-026,Unscheduled 0.1,0.1,2015-10-16,9,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-027,Screening,0,2015-05-10,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-028,Screening,0,2015-03-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-028,Visit 1,1,2015-05-06,60,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-029,Screening,0,2015-06-03,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-029,Visit 1,1,2015-07-24,52,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-029,Visit 2,2,2015-09-27,117,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-03-029,Visit 3,3,2015-11-20,171,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-03-030,Screening,0,2015-03-30,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-03-030,Visit 1,1,2015-05-28,60,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-030,Unscheduled 1.1,1.1,2015-06-05,68,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-03-030,Visit 2,2,2015-07-12,105,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-002,Screening,0,2015-06-19,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-002,Visit 1,1,2015-08-11,54,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-002,Unscheduled 1.1,1.1,2015-08-19,62,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-003,Screening,0,2015-11-17,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-003,Unscheduled 0.1,0.1,2015-11-25,9,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-004,Screening,0,2015-08-03,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-004,Visit 1,1,2015-10-03,62,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-004,Unscheduled 1.1,1.1,2015-10-11,70,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-004,Visit 2,2,2015-11-15,105,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-005,Screening,0,2015-08-17,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-005,Visit 1,1,2015-10-05,50,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-005,Visit 2,2,2015-12-12,118,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-005,Visit 3,3,2016-01-31,168,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-005,Visit 4,4,2016-03-28,225,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-005,Visit 5,5,2016-05-22,280,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-005,Visit 6,6,2016-07-21,340,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-005,End of Study,7,2016-08-16,366,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-007,Screening,0,2015-04-15,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-007,Visit 1,1,2015-06-04,51,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-007,Visit 2,2,2015-08-05,113,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-007,Visit 3,3,2015-09-29,168,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-008,Screening,0,2015-04-10,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-008,Visit 1,1,2015-06-07,59,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-04-008,Visit 2,2,2015-07-29,111,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-008,Visit 3,3,2015-09-21,165,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-009,Screening,0,2015-01-22,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-009,Visit 1,1,2015-03-18,56,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-009,Visit 2,2,2015-05-10,109,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-009,Visit 3,3,2015-07-09,169,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-010,Screening,0,2015-12-14,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-010,Visit 1,1,2016-02-14,63,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-011,Screening,0,2015-10-16,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-011,Visit 1,1,2015-12-15,61,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-011,Visit 2,2,2016-02-04,112,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-04-011,Visit 3,3,2016-04-06,174,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-04-011,Visit 4,4,2016-05-20,218,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-012,Screening,0,2015-06-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-012,Visit 2,2,2015-10-11,108,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-012,Visit 3,3,2015-12-17,175,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-012,Visit 4,4,2016-02-05,225,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-012,Visit 5,5,2016-04-02,282,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-012,Visit 6,6,2016-05-28,338,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-013,Screening,0,2015-04-22,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-013,Visit 1,1,2015-06-21,61,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-013,Visit 2,2,2015-08-13,114,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-013,Visit 3,3,2015-09-29,161,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-013,Visit 4,4,2015-12-06,229,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-013,Visit 5,5,2016-01-31,285,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-013,Visit 6,6,2016-03-27,341,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-014,Screening,0,2015-05-14,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-015,Screening,0,2015-11-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-015,Visit 1,1,2016-01-17,53,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-015,Unscheduled 1.1,1.1,2016-01-25,61,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-016,Screening,0,2015-04-27,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-016,Visit 1,1,2015-06-20,55,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-019,Screening,0,2015-01-20,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-019,Visit 1,1,2015-03-23,63,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-020,Screening,0,2015-09-14,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-020,Unscheduled 0.1,0.1,2015-09-22,9,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-021,Screening,0,2015-06-20,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-022,Screening,0,2015-12-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-022,Visit 1,1,2016-02-26,63,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-022,Unscheduled 1.1,1.1,2016-03-05,71,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-024,Screening,0,2015-05-05,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-024,Visit 1,1,2015-06-29,56,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-024,Visit 2,2,2015-08-23,111,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-024,Visit 3,3,2015-10-24,173,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-024,Visit 4,4,2015-12-21,231,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-025,Screening,0,2015-08-08,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-026,Screening,0,2015-07-02,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-027,Screening,0,2015-01-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-027,Visit 1,1,2015-03-06,53,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-04-027,Visit 2,2,2015-05-02,110,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-027,Visit 3,3,2015-06-30,169,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-04-028,Screening,0,2015-01-23,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-028,Visit 1,1,2015-03-20,57,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-04-028,Visit 2,2,2015-05-17,115,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-028,Visit 3,3,2015-07-09,168,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-028,Unscheduled 3.1,3.1,2015-07-17,176,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-04-029,Screening,0,2015-05-12,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-04-029,Unscheduled 0.1,0.1,2015-05-20,9,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-04-029,Unscheduled 0.2,0.2,2015-05-27,16,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-002,Screening,0,2015-10-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-002,Visit 1,1,2015-12-17,53,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-002,Visit 2,2,2016-02-14,112,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-002,Visit 3,3,2016-04-12,170,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-003,Screening,0,2015-09-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-003,Visit 1,1,2015-11-21,57,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-003,Visit 2,2,2016-01-19,116,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-003,Visit 4,4,2016-05-10,228,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-003,Visit 5,5,2016-07-05,284,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-004,Screening,0,2015-10-29,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-007,Screening,0,2015-07-07,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-008,Screening,0,2015-10-12,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-008,Unscheduled 0.1,0.1,2015-10-20,9,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-008,Visit 1,1,2015-12-12,62,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-008,Unscheduled 1.1,1.1,2015-12-20,70,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-05-008,Visit 2,2,2016-01-31,112,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-008,Visit 3,3,2016-03-23,164,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-008,Visit 6,6,2016-09-16,341,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-05-009,Screening,0,2015-12-16,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-009,Visit 1,1,2016-02-10,57,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-009,Visit 2,2,2016-03-31,107,TRGRESP,Target Response,RECIST 1.1,NE,3,0.05,#969696
-05-009,Visit 3,3,2016-06-06,174,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-010,Screening,0,2015-02-06,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-010,Visit 1,1,2015-04-05,59,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-010,Visit 2,2,2015-06-02,117,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-010,Visit 3,3,2015-07-21,166,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-010,Visit 4,4,2015-09-14,221,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-010,Visit 5,5,2015-11-08,276,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-010,Visit 6,6,2016-01-06,335,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-010,End of Study,7,2016-02-05,365,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-011,Screening,0,2015-02-04,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-011,Visit 1,1,2015-04-07,63,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-012,Screening,0,2015-04-18,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-012,Visit 1,1,2015-06-05,49,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-012,Visit 2,2,2015-08-11,116,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-013,Screening,0,2015-10-22,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-013,Unscheduled 0.1,0.1,2015-10-30,9,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-013,Visit 1,1,2015-12-15,55,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-013,Visit 2,2,2016-02-08,110,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-013,Visit 3,3,2016-04-05,167,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-014,Screening,0,2015-07-01,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-014,Visit 2,2,2015-10-14,106,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-014,Visit 3,3,2015-12-15,168,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-015,Screening,0,2015-01-11,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-015,Visit 1,1,2015-03-07,56,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-015,Visit 2,2,2015-04-28,108,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-016,Screening,0,2015-06-15,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-017,Screening,0,2015-07-03,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-017,Visit 1,1,2015-08-28,57,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-018,Screening,0,2015-12-14,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-018,Visit 1,1,2016-02-03,52,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-018,Visit 2,2,2016-04-01,110,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-018,Visit 3,3,2016-05-28,167,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-019,Screening,0,2015-05-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-019,Visit 1,1,2015-07-06,55,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-020,Screening,0,2015-04-21,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-020,Visit 1,1,2015-06-11,52,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-020,Unscheduled 1.1,1.1,2015-06-19,60,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-020,Visit 2,2,2015-08-12,114,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-021,Screening,0,2015-01-20,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-021,Visit 1,1,2015-03-14,54,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-022,Screening,0,2015-01-10,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-022,Visit 1,1,2015-03-13,63,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-022,Visit 2,2,2015-04-30,111,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-023,Screening,0,2015-08-15,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-023,Visit 2,2,2015-12-03,111,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-023,Visit 3,3,2016-01-31,170,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-023,Visit 4,4,2016-03-29,228,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-024,Screening,0,2015-11-17,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-025,Screening,0,2015-02-28,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-025,Unscheduled 0.1,0.1,2015-03-08,9,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-025,Unscheduled 0.2,0.2,2015-03-15,16,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-025,Visit 1,1,2015-04-29,61,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-026,Screening,0,2015-01-26,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-026,Visit 1,1,2015-03-23,57,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-026,Visit 2,2,2015-05-15,110,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-026,Visit 3,3,2015-07-15,171,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-027,Screening,0,2015-05-28,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-027,Visit 1,1,2015-07-16,50,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-027,Visit 2,2,2015-09-17,113,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
-05-027,Visit 3,3,2015-11-13,170,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-028,Screening,0,2015-12-01,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-028,Visit 1,1,2016-01-19,50,TRGRESP,Target Response,RECIST 1.1,SD,2,0.35,#92c5de
-05-028,Visit 3,3,2016-05-15,167,TRGRESP,Target Response,RECIST 1.1,PD,5,0.25,#d6604d
-05-029,Screening,0,2015-10-02,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-029,Unscheduled 1.1,1.1,2015-12-03,63,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-030,Screening,0,2015-11-13,1,TRGRESP,Target Response,RECIST 1.1,UN,4,0,#bdbdbd
-05-030,Visit 1,1,2016-01-10,59,TRGRESP,Target Response,RECIST 1.1,CR,0,0.1,#2166ac
-05-030,Visit 2,2,2016-03-01,110,TRGRESP,Target Response,RECIST 1.1,PR,1,0.25,#4393c3
+01-002,Screening,0,2015-05-30,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-002,Screening,0,2015-05-30,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-002,Visit 2,2,2015-09-15,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-002,Visit 2,2,2015-09-15,109,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-002,Visit 3,3,2015-11-06,161,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-003,Screening,0,2015-08-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-003,Screening,0,2015-08-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-003,Visit 1,1,2015-10-06,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-003,Visit 1,1,2015-10-06,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-003,Visit 2,2,2015-12-04,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-004,Screening,0,2015-01-12,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-004,Screening,0,2015-01-12,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-005,Screening,0,2015-11-11,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-005,Screening,0,2015-11-11,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-005,Visit 1,1,2016-01-02,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-005,Visit 1,1,2016-01-02,53,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-008,Screening,0,2015-11-21,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-008,Screening,0,2015-11-21,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-009,Screening,0,2015-11-25,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-009,Screening,0,2015-11-25,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-009,Visit 2,2,2016-03-18,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-009,Visit 2,2,2016-03-18,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-009,Visit 3,3,2016-05-06,164,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+01-009,Visit 3,3,2016-05-06,164,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-010,Screening,0,2015-01-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-010,Screening,0,2015-01-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-010,Visit 1,1,2015-02-26,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-010,Visit 1,1,2015-02-26,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-010,Visit 2,2,2015-04-28,113,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-011,Screening,0,2015-10-04,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-011,Screening,0,2015-10-04,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-012,Screening,0,2015-04-18,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-012,Screening,0,2015-04-18,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-012,Visit 1,1,2015-06-11,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-012,Visit 1,1,2015-06-11,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+01-012,Visit 2,2,2015-07-31,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-013,Screening,0,2015-07-15,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-013,Screening,0,2015-07-15,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-013,Visit 1,1,2015-09-15,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-013,Visit 1,1,2015-09-15,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+01-013,Visit 2,2,2015-11-04,113,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-013,Visit 2,2,2015-11-04,113,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+01-013,Visit 3,3,2016-01-04,174,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-013,Visit 3,3,2016-01-04,174,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-013,Visit 4,4,2016-02-29,230,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-013,Unscheduled 5.1,5.1,2016-05-02,293,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-014,Screening,0,2015-07-24,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-014,Screening,0,2015-07-24,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-014,Visit 1,1,2015-09-23,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-014,Visit 1,1,2015-09-23,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-014,Visit 2,2,2015-11-05,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-014,Visit 3,3,2016-01-12,173,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+01-015,Screening,0,2015-04-28,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-015,Screening,0,2015-04-28,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-015,Visit 1,1,2015-06-29,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-015,Visit 1,1,2015-06-29,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-015,Unscheduled 1.1,1.1,2015-07-07,71,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-015,Unscheduled 1.1,1.1,2015-07-07,71,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-015,Visit 2,2,2015-08-24,119,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-015,Visit 2,2,2015-08-24,119,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-016,Screening,0,2015-12-21,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-016,Screening,0,2015-12-21,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-016,Visit 1,1,2016-02-19,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-016,Visit 1,1,2016-02-19,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-016,Visit 2,2,2016-04-03,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-016,Visit 2,2,2016-04-03,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-016,Visit 3,3,2016-06-09,172,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+01-016,Visit 4,4,2016-08-04,228,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-017,Screening,0,2015-02-12,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-017,Screening,0,2015-02-12,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-017,Visit 1,1,2015-04-11,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-017,Visit 1,1,2015-04-11,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-017,Visit 2,2,2015-05-31,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-017,Visit 2,2,2015-05-31,109,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-017,Visit 3,3,2015-08-02,172,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-017,Visit 3,3,2015-08-02,172,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-018,Screening,0,2015-02-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-018,Screening,0,2015-02-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-018,Visit 1,1,2015-04-03,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-018,Visit 1,1,2015-04-03,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-019,Screening,0,2015-04-24,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-019,Screening,0,2015-04-24,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-019,Unscheduled 0.1,0.1,2015-05-02,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-019,Unscheduled 0.1,0.1,2015-05-02,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-019,Visit 1,1,2015-06-23,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-019,Visit 2,2,2015-08-18,117,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-019,Visit 4,4,2015-12-01,222,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-021,Screening,0,2015-10-04,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-021,Screening,0,2015-10-04,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-022,Screening,0,2015-10-01,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-022,Screening,0,2015-10-01,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-022,Visit 1,1,2015-11-26,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+01-022,Visit 1,1,2015-11-26,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-022,Visit 2,2,2016-01-23,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-022,Visit 2,2,2016-01-23,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-022,Visit 3,3,2016-03-11,163,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-022,Visit 4,4,2016-05-13,226,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-022,Visit 5,5,2016-07-08,282,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-023,Screening,0,2015-03-29,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-023,Screening,0,2015-03-29,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-023,Unscheduled 1.1,1.1,2015-06-06,70,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-023,Unscheduled 1.1,1.1,2015-06-06,70,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-024,Screening,0,2015-04-23,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-024,Screening,0,2015-04-23,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-024,Visit 1,1,2015-06-10,49,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-024,Visit 1,1,2015-06-10,49,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-024,Visit 2,2,2015-08-08,108,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-024,Visit 2,2,2015-08-08,108,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-024,Visit 3,3,2015-10-09,170,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-025,Screening,0,2015-06-22,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-025,Screening,0,2015-06-22,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-025,Visit 1,1,2015-08-09,49,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+01-025,Visit 1,1,2015-08-09,49,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Screening,0,2015-02-19,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-026,Screening,0,2015-02-19,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-026,Visit 1,1,2015-04-19,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+01-026,Visit 1,1,2015-04-19,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-026,Visit 2,2,2015-06-12,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Visit 3,3,2015-08-02,165,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Visit 4,4,2015-10-05,229,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Unscheduled 4.1,4.1,2015-10-13,237,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Visit 5,5,2015-11-19,274,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-026,Visit 6,6,2016-01-16,332,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-026,End of Study,7,2016-02-19,366,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-027,Screening,0,2015-06-01,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-027,Screening,0,2015-06-01,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-027,Visit 1,1,2015-07-24,54,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-027,Visit 1,1,2015-07-24,54,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-028,Screening,0,2015-11-12,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-028,Screening,0,2015-11-12,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-028,Visit 1,1,2016-01-11,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-028,Visit 1,1,2016-01-11,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-028,Unscheduled 1.1,1.1,2016-01-19,69,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+01-028,Unscheduled 1.1,1.1,2016-01-19,69,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-028,Visit 2,2,2016-02-29,110,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-028,Visit 2,2,2016-02-29,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-028,Visit 3,3,2016-04-30,171,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-028,Visit 3,3,2016-04-30,171,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-028,Visit 5,5,2016-08-10,273,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-028,Visit 6,6,2016-10-19,343,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-028,End of Study,7,2016-11-13,368,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-029,Screening,0,2015-06-10,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+01-029,Screening,0,2015-06-10,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+01-029,Visit 1,1,2015-07-28,49,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-029,Visit 1,1,2015-07-28,49,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+01-029,Visit 2,2,2015-10-02,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-029,Visit 2,2,2015-10-02,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+01-029,Visit 3,3,2015-11-23,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+01-029,Visit 3,3,2015-11-23,167,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+01-029,Visit 4,4,2016-01-21,226,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+01-029,Visit 5,5,2016-03-21,286,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-002,Screening,0,2015-03-16,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-002,Screening,0,2015-03-16,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-002,Unscheduled 0.1,0.1,2015-03-24,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-002,Unscheduled 0.1,0.1,2015-03-24,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-003,Screening,0,2015-04-27,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-003,Screening,0,2015-04-27,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-003,Visit 1,1,2015-06-24,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-003,Visit 1,1,2015-06-24,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-003,Visit 2,2,2015-08-13,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-003,Visit 2,2,2015-08-13,109,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-003,Visit 3,3,2015-10-06,163,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-003,Visit 3,3,2015-10-06,163,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-004,Screening,0,2015-09-30,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-004,Screening,0,2015-09-30,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-008,Screening,0,2015-08-17,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-008,Screening,0,2015-08-17,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-008,Visit 1,1,2015-10-06,51,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+02-008,Visit 1,1,2015-10-06,51,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-008,Visit 2,2,2015-12-10,116,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-008,Visit 2,2,2015-12-10,116,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-009,Screening,0,2015-12-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-009,Screening,0,2015-12-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-009,Visit 1,1,2016-02-03,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-009,Visit 1,1,2016-02-03,53,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-009,Visit 3,3,2016-05-27,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-009,Visit 4,4,2016-07-20,221,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Screening,0,2015-07-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-010,Screening,0,2015-07-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-010,Visit 1,1,2015-09-14,51,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Visit 1,1,2015-09-14,51,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-010,Visit 2,2,2015-11-08,106,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Visit 2,2,2015-11-08,106,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-010,Visit 3,3,2016-01-06,165,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Visit 3,3,2016-01-06,165,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-010,Visit 4,4,2016-03-01,220,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Visit 5,5,2016-05-06,286,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Unscheduled 5.1,5.1,2016-05-14,294,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Visit 6,6,2016-06-30,341,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-010,Unscheduled 6.1,6.1,2016-07-08,349,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-011,Screening,0,2015-10-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-011,Screening,0,2015-10-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-012,Screening,0,2015-09-30,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-012,Screening,0,2015-09-30,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-012,Unscheduled 0.1,0.1,2015-10-08,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-012,Unscheduled 0.1,0.1,2015-10-08,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-012,Visit 1,1,2015-11-25,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-012,Visit 1,1,2015-11-25,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-012,Unscheduled 1.1,1.1,2015-12-03,65,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+02-012,Unscheduled 1.1,1.1,2015-12-03,65,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-012,Visit 2,2,2016-01-22,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-012,Visit 2,2,2016-01-22,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-012,Visit 3,3,2016-03-10,163,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-012,Visit 3,3,2016-03-10,163,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-012,Visit 4,4,2016-05-14,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-012,Visit 4,4,2016-05-14,228,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-013,Screening,0,2015-12-29,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-013,Screening,0,2015-12-29,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-013,Visit 1,1,2016-02-18,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+02-013,Visit 1,1,2016-02-18,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-013,Visit 2,2,2016-04-25,119,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-013,Visit 2,2,2016-04-25,119,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-013,Visit 3,3,2016-06-17,172,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-013,Visit 5,5,2016-10-09,286,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-014,Screening,0,2015-04-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-014,Screening,0,2015-04-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-014,Visit 1,1,2015-06-10,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-014,Visit 1,1,2015-06-10,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-014,Unscheduled 1.1,1.1,2015-06-18,67,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-014,Unscheduled 1.1,1.1,2015-06-18,67,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-014,Visit 2,2,2015-07-28,107,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-014,Visit 2,2,2015-07-28,107,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-015,Screening,0,2015-02-24,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-015,Screening,0,2015-02-24,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-017,Screening,0,2015-04-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-017,Screening,0,2015-04-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-017,Visit 1,1,2015-06-06,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-017,Visit 1,1,2015-06-06,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-017,Unscheduled 1.1,1.1,2015-06-14,70,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-017,Unscheduled 1.1,1.1,2015-06-14,70,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-018,Screening,0,2015-11-23,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-018,Screening,0,2015-11-23,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-018,Visit 1,1,2016-01-13,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-018,Visit 1,1,2016-01-13,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-018,Visit 3,3,2016-05-07,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-018,Visit 3,3,2016-05-07,167,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-018,Visit 4,4,2016-06-27,218,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-018,Visit 4,4,2016-06-27,218,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-018,Visit 5,5,2016-09-02,285,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-018,Visit 6,6,2016-10-19,332,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-019,Screening,0,2015-02-16,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-019,Screening,0,2015-02-16,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-019,Unscheduled 1.1,1.1,2015-04-20,64,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-019,Unscheduled 1.1,1.1,2015-04-20,64,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-019,Visit 2,2,2015-06-03,108,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-019,Visit 2,2,2015-06-03,108,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-019,Visit 3,3,2015-07-26,161,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+02-019,Visit 3,3,2015-07-26,161,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-019,Visit 4,4,2015-09-26,223,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-019,Visit 4,4,2015-09-26,223,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+02-021,Screening,0,2015-10-01,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-021,Screening,0,2015-10-01,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-021,Visit 1,1,2015-11-29,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-021,Visit 1,1,2015-11-29,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-021,Visit 2,2,2016-01-26,118,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+02-021,Visit 2,2,2016-01-26,118,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-021,Visit 3,3,2016-03-19,171,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-021,Visit 3,3,2016-03-19,171,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-021,Visit 4,4,2016-05-10,223,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-021,Visit 5,5,2016-07-09,283,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-021,Visit 6,6,2016-08-24,329,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+02-022,Screening,0,2015-12-27,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-022,Screening,0,2015-12-27,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-023,Screening,0,2015-12-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-023,Screening,0,2015-12-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-023,Visit 1,1,2016-01-29,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-023,Visit 1,1,2016-01-29,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-023,Visit 2,2,2016-03-29,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-023,Visit 2,2,2016-03-29,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-023,Visit 3,3,2016-05-21,168,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-023,Visit 3,3,2016-05-21,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-023,Visit 4,4,2016-07-23,231,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-023,Visit 4,4,2016-07-23,231,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+02-023,Visit 5,5,2016-09-14,284,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-024,Screening,0,2015-02-28,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-024,Screening,0,2015-02-28,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-026,Screening,0,2015-04-03,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-026,Screening,0,2015-04-03,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-026,Visit 3,3,2015-09-20,171,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-026,Visit 3,3,2015-09-20,171,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-026,Unscheduled 3.1,3.1,2015-09-28,179,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-026,Visit 6,6,2016-03-01,334,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-027,Screening,0,2015-03-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-027,Screening,0,2015-03-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-027,Visit 1,1,2015-05-08,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-027,Visit 1,1,2015-05-08,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-027,Visit 2,2,2015-06-22,107,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-027,Visit 3,3,2015-08-24,170,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-027,Unscheduled 4.1,4.1,2015-10-29,236,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-027,Visit 5,5,2015-12-11,279,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-027,Visit 6,6,2016-02-02,332,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-027,End of Study,7,2016-03-04,363,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-028,Screening,0,2015-04-25,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-028,Screening,0,2015-04-25,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-028,Visit 1,1,2015-06-12,49,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-028,Visit 1,1,2015-06-12,49,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+02-028,Visit 2,2,2015-08-21,119,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-028,Visit 3,3,2015-10-03,162,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-029,Screening,0,2015-04-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+02-029,Screening,0,2015-04-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+02-029,Visit 2,2,2015-08-19,116,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+02-029,Visit 2,2,2015-08-19,116,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+02-029,Visit 3,3,2015-10-06,164,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+02-029,Visit 3,3,2015-10-06,164,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+02-029,Visit 4,4,2015-12-11,230,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-002,Screening,0,2015-09-02,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-002,Screening,0,2015-09-02,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-002,Visit 1,1,2015-10-22,51,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-002,Visit 1,1,2015-10-22,51,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-002,Visit 2,2,2015-12-15,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-002,Visit 2,2,2015-12-15,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-002,Visit 3,3,2016-02-13,165,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-002,Visit 4,4,2016-04-11,223,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-002,Visit 6,6,2016-07-26,329,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-002,End of Study,7,2016-08-22,356,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-003,Screening,0,2015-05-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-003,Screening,0,2015-05-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-003,Visit 1,1,2015-07-14,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-003,Visit 1,1,2015-07-14,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-003,Visit 2,2,2015-09-11,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-003,Visit 2,2,2015-09-11,109,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-003,Visit 3,3,2015-11-03,162,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-003,Unscheduled 3.1,3.1,2015-11-11,170,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-003,Visit 4,4,2016-01-09,229,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-004,Screening,0,2015-12-03,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-004,Screening,0,2015-12-03,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-004,Visit 1,1,2016-01-31,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-004,Visit 1,1,2016-01-31,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-004,Visit 2,2,2016-03-30,119,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-004,Visit 2,2,2016-03-30,119,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-004,Visit 4,4,2016-07-17,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-004,Visit 4,4,2016-07-17,228,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-004,Visit 5,5,2016-09-05,278,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-004,Visit 5,5,2016-09-05,278,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-004,Visit 6,6,2016-11-07,341,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-005,Screening,0,2015-04-15,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-005,Screening,0,2015-04-15,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-005,Visit 1,1,2015-06-03,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-005,Visit 1,1,2015-06-03,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-005,Visit 3,3,2015-09-25,164,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-005,Visit 3,3,2015-09-25,164,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-006,Screening,0,2015-05-24,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-006,Screening,0,2015-05-24,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-006,Visit 1,1,2015-07-16,54,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-006,Visit 1,1,2015-07-16,54,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-007,Screening,0,2015-08-18,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-007,Screening,0,2015-08-18,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-007,Visit 1,1,2015-10-18,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-007,Visit 1,1,2015-10-18,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-007,Visit 2,2,2015-12-06,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-007,Visit 3,3,2016-02-01,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-007,Visit 4,4,2016-04-03,230,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+03-007,Visit 6,6,2016-07-13,331,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-008,Screening,0,2015-03-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-008,Screening,0,2015-03-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-008,Visit 2,2,2015-06-29,114,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-008,Visit 2,2,2015-06-29,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-008,Unscheduled 2.1,2.1,2015-07-07,122,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+03-008,Visit 4,4,2015-10-21,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-008,Visit 6,6,2016-02-01,331,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+03-010,Screening,0,2015-02-07,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-010,Screening,0,2015-02-07,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-010,Visit 1,1,2015-04-03,56,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-010,Visit 1,1,2015-04-03,56,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-012,Screening,0,2015-08-19,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-012,Screening,0,2015-08-19,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-012,Unscheduled 0.1,0.1,2015-08-27,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-012,Unscheduled 0.1,0.1,2015-08-27,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+03-012,Visit 1,1,2015-10-08,51,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-012,Visit 1,1,2015-10-08,51,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-012,Visit 2,2,2015-12-15,119,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+03-012,Visit 3,3,2016-01-28,163,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-013,Screening,0,2015-10-28,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-013,Screening,0,2015-10-28,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-013,Visit 2,2,2016-02-18,114,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-013,Visit 2,2,2016-02-18,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-013,Visit 4,4,2016-06-11,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-014,Screening,0,2015-02-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-014,Screening,0,2015-02-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-015,Screening,0,2015-07-21,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-015,Screening,0,2015-07-21,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-015,Visit 1,1,2015-09-13,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-015,Visit 1,1,2015-09-13,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-015,Visit 2,2,2015-11-02,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-015,Visit 2,2,2015-11-02,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-016,Screening,0,2015-05-04,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-016,Screening,0,2015-05-04,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-016,Unscheduled 1.1,1.1,2015-07-02,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-016,Unscheduled 1.1,1.1,2015-07-02,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-017,Screening,0,2015-06-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-017,Screening,0,2015-06-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-017,Visit 1,1,2015-08-18,54,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-017,Visit 1,1,2015-08-18,54,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-018,Screening,0,2015-05-30,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-018,Screening,0,2015-05-30,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-018,Visit 1,1,2015-07-26,58,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-018,Visit 1,1,2015-07-26,58,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-018,Unscheduled 1.1,1.1,2015-08-03,66,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+03-019,Screening,0,2015-11-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-019,Screening,0,2015-11-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-019,Visit 1,1,2016-01-02,58,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-019,Visit 1,1,2016-01-02,58,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-019,Visit 2,2,2016-02-27,114,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-019,Visit 2,2,2016-02-27,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-019,Visit 3,3,2016-04-19,166,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-019,Visit 3,3,2016-04-19,166,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-019,Visit 4,4,2016-06-11,219,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-019,Visit 4,4,2016-06-11,219,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-019,Visit 5,5,2016-08-12,281,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-019,Visit 5,5,2016-08-12,281,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-019,Visit 6,6,2016-10-10,340,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-019,Visit 6,6,2016-10-10,340,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-019,End of Study,7,2016-11-13,374,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-020,Screening,0,2015-08-09,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-020,Screening,0,2015-08-09,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-020,Visit 1,1,2015-10-10,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-020,Visit 1,1,2015-10-10,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-021,Screening,0,2015-09-21,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-021,Screening,0,2015-09-21,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-021,Visit 1,1,2015-11-22,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-021,Visit 1,1,2015-11-22,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+03-021,Visit 2,2,2016-01-06,108,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-022,Screening,0,2015-05-14,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-022,Screening,0,2015-05-14,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-022,Visit 1,1,2015-07-09,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-022,Visit 1,1,2015-07-09,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-022,Visit 2,2,2015-09-01,111,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-022,Visit 2,2,2015-09-01,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-022,Visit 3,3,2015-10-27,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-022,Visit 4,4,2015-12-19,220,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-022,Visit 5,5,2016-02-23,286,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-023,Screening,0,2015-03-25,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-023,Screening,0,2015-03-25,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-023,Unscheduled 0.1,0.1,2015-04-02,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-023,Unscheduled 0.1,0.1,2015-04-02,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-025,Screening,0,2015-04-29,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-025,Screening,0,2015-04-29,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-025,Unscheduled 0.1,0.1,2015-05-07,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-025,Unscheduled 0.1,0.1,2015-05-07,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+03-025,Visit 1,1,2015-06-29,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-025,Visit 1,1,2015-06-29,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-025,Visit 2,2,2015-08-11,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-025,Visit 3,3,2015-10-11,166,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+03-025,Visit 5,5,2016-01-29,276,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-026,Screening,0,2015-10-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-026,Screening,0,2015-10-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-026,Unscheduled 0.1,0.1,2015-10-16,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-026,Unscheduled 0.1,0.1,2015-10-16,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-027,Screening,0,2015-05-10,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-027,Screening,0,2015-05-10,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-028,Screening,0,2015-03-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-028,Screening,0,2015-03-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-028,Visit 1,1,2015-05-06,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-028,Visit 1,1,2015-05-06,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-028,Visit 2,2,2015-06-21,106,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-028,Visit 3,3,2015-08-25,171,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-029,Screening,0,2015-06-03,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-029,Screening,0,2015-06-03,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-029,Visit 1,1,2015-07-24,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-029,Visit 1,1,2015-07-24,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-029,Visit 2,2,2015-09-27,117,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+03-029,Visit 3,3,2015-11-20,171,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+03-030,Screening,0,2015-03-30,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+03-030,Screening,0,2015-03-30,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+03-030,Visit 1,1,2015-05-28,60,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-030,Visit 1,1,2015-05-28,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-030,Unscheduled 1.1,1.1,2015-06-05,68,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+03-030,Unscheduled 1.1,1.1,2015-06-05,68,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+03-030,Visit 2,2,2015-07-12,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+03-030,Visit 2,2,2015-07-12,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-002,Screening,0,2015-06-19,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-002,Screening,0,2015-06-19,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-002,Visit 1,1,2015-08-11,54,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-002,Visit 1,1,2015-08-11,54,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-002,Unscheduled 1.1,1.1,2015-08-19,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-003,Screening,0,2015-11-17,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-003,Screening,0,2015-11-17,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-003,Unscheduled 0.1,0.1,2015-11-25,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-003,Unscheduled 0.1,0.1,2015-11-25,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-004,Screening,0,2015-08-03,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-004,Screening,0,2015-08-03,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-004,Visit 1,1,2015-10-03,62,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+04-004,Visit 1,1,2015-10-03,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-004,Unscheduled 1.1,1.1,2015-10-11,70,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-004,Unscheduled 1.1,1.1,2015-10-11,70,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-004,Visit 2,2,2015-11-15,105,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-004,Visit 2,2,2015-11-15,105,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-005,Screening,0,2015-08-17,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-005,Screening,0,2015-08-17,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-005,Visit 1,1,2015-10-05,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-005,Visit 1,1,2015-10-05,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-005,Visit 2,2,2015-12-12,118,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-005,Visit 2,2,2015-12-12,118,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-005,Visit 3,3,2016-01-31,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-005,Visit 4,4,2016-03-28,225,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-005,Visit 5,5,2016-05-22,280,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-005,Visit 6,6,2016-07-21,340,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-005,End of Study,7,2016-08-16,366,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-007,Screening,0,2015-04-15,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-007,Screening,0,2015-04-15,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-007,Visit 1,1,2015-06-04,51,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-007,Visit 1,1,2015-06-04,51,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-007,Visit 2,2,2015-08-05,113,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-007,Visit 2,2,2015-08-05,113,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-007,Visit 3,3,2015-09-29,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-008,Screening,0,2015-04-10,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-008,Screening,0,2015-04-10,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-008,Visit 1,1,2015-06-07,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-008,Visit 1,1,2015-06-07,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+04-008,Visit 2,2,2015-07-29,111,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-008,Visit 2,2,2015-07-29,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-008,Visit 3,3,2015-09-21,165,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-008,Visit 3,3,2015-09-21,165,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-008,Visit 4,4,2015-11-17,222,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-009,Screening,0,2015-01-22,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-009,Screening,0,2015-01-22,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-009,Visit 1,1,2015-03-18,56,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-009,Visit 1,1,2015-03-18,56,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-009,Visit 2,2,2015-05-10,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-009,Visit 2,2,2015-05-10,109,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-009,Visit 3,3,2015-07-09,169,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-009,Visit 3,3,2015-07-09,169,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-010,Screening,0,2015-12-14,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-010,Screening,0,2015-12-14,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-010,Visit 1,1,2016-02-14,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-010,Visit 1,1,2016-02-14,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-011,Screening,0,2015-10-16,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-011,Screening,0,2015-10-16,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-011,Visit 1,1,2015-12-15,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-011,Visit 1,1,2015-12-15,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-011,Visit 2,2,2016-02-04,112,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-011,Visit 2,2,2016-02-04,112,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+04-011,Visit 3,3,2016-04-06,174,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-011,Visit 3,3,2016-04-06,174,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+04-011,Visit 4,4,2016-05-20,218,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-011,Visit 4,4,2016-05-20,218,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-011,Visit 5,5,2016-07-22,281,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-012,Screening,0,2015-06-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-012,Screening,0,2015-06-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-012,Visit 2,2,2015-10-11,108,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-012,Visit 2,2,2015-10-11,108,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-012,Visit 3,3,2015-12-17,175,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-012,Visit 4,4,2016-02-05,225,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-012,Visit 5,5,2016-04-02,282,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-012,Visit 6,6,2016-05-28,338,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-013,Screening,0,2015-04-22,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-013,Screening,0,2015-04-22,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-013,Visit 1,1,2015-06-21,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-013,Visit 1,1,2015-06-21,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-013,Visit 2,2,2015-08-13,114,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-013,Visit 2,2,2015-08-13,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-013,Visit 3,3,2015-09-29,161,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-013,Visit 3,3,2015-09-29,161,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-013,Visit 4,4,2015-12-06,229,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-013,Visit 4,4,2015-12-06,229,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-013,Visit 5,5,2016-01-31,285,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-013,Visit 5,5,2016-01-31,285,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-013,Visit 6,6,2016-03-27,341,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-013,Visit 6,6,2016-03-27,341,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-013,End of Study,7,2016-04-24,369,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+04-014,Screening,0,2015-05-14,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-014,Screening,0,2015-05-14,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-015,Screening,0,2015-11-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-015,Screening,0,2015-11-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-015,Visit 1,1,2016-01-17,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-015,Visit 1,1,2016-01-17,53,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-015,Unscheduled 1.1,1.1,2016-01-25,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-015,Unscheduled 1.1,1.1,2016-01-25,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-016,Screening,0,2015-04-27,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-016,Screening,0,2015-04-27,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-016,Visit 1,1,2015-06-20,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-016,Visit 1,1,2015-06-20,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-019,Screening,0,2015-01-20,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-019,Screening,0,2015-01-20,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-019,Visit 1,1,2015-03-23,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-019,Visit 1,1,2015-03-23,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-019,Visit 2,2,2015-05-14,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-019,Visit 3,3,2015-06-29,161,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-020,Screening,0,2015-09-14,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-020,Screening,0,2015-09-14,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-020,Unscheduled 0.1,0.1,2015-09-22,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-020,Unscheduled 0.1,0.1,2015-09-22,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-021,Screening,0,2015-06-20,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-021,Screening,0,2015-06-20,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-022,Screening,0,2015-12-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-022,Screening,0,2015-12-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-022,Visit 1,1,2016-02-26,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-022,Visit 1,1,2016-02-26,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-022,Unscheduled 1.1,1.1,2016-03-05,71,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDu,3,0.05,#f4a582
+04-022,Unscheduled 1.1,1.1,2016-03-05,71,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-024,Screening,0,2015-05-05,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-024,Screening,0,2015-05-05,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-024,Visit 1,1,2015-06-29,56,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-024,Visit 1,1,2015-06-29,56,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-024,Visit 2,2,2015-08-23,111,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-024,Visit 2,2,2015-08-23,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-024,Visit 3,3,2015-10-24,173,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-024,Visit 3,3,2015-10-24,173,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-024,Visit 4,4,2015-12-21,231,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-024,Visit 4,4,2015-12-21,231,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-024,Visit 6,6,2016-04-05,337,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-025,Screening,0,2015-08-08,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-025,Screening,0,2015-08-08,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-026,Screening,0,2015-07-02,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-026,Screening,0,2015-07-02,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-027,Screening,0,2015-01-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-027,Screening,0,2015-01-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-027,Visit 1,1,2015-03-06,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-027,Visit 1,1,2015-03-06,53,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+04-027,Visit 2,2,2015-05-02,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-027,Visit 3,3,2015-06-30,169,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-028,Screening,0,2015-01-23,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-028,Screening,0,2015-01-23,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-028,Visit 1,1,2015-03-20,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-028,Visit 1,1,2015-03-20,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+04-028,Visit 2,2,2015-05-17,115,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+04-028,Visit 2,2,2015-05-17,115,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-028,Visit 3,3,2015-07-09,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-028,Unscheduled 3.1,3.1,2015-07-17,176,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+04-029,Screening,0,2015-05-12,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+04-029,Screening,0,2015-05-12,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+04-029,Unscheduled 0.1,0.1,2015-05-20,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-029,Unscheduled 0.1,0.1,2015-05-20,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+04-029,Unscheduled 0.2,0.2,2015-05-27,16,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-029,Unscheduled 0.2,0.2,2015-05-27,16,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+04-029,Visit 1,1,2015-07-03,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+04-029,Unscheduled 1.1,1.1,2015-07-11,61,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-002,Screening,0,2015-10-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-002,Screening,0,2015-10-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-002,Visit 1,1,2015-12-17,53,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-002,Visit 1,1,2015-12-17,53,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-002,Visit 2,2,2016-02-14,112,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-002,Visit 3,3,2016-04-12,170,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-003,Screening,0,2015-09-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-003,Screening,0,2015-09-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-003,Visit 1,1,2015-11-21,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-003,Visit 1,1,2015-11-21,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-003,Visit 2,2,2016-01-19,116,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-003,Visit 2,2,2016-01-19,116,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-003,Visit 4,4,2016-05-10,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-003,Visit 4,4,2016-05-10,228,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-003,Visit 5,5,2016-07-05,284,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+05-003,Visit 5,5,2016-07-05,284,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-003,Unscheduled 5.1,5.1,2016-07-13,292,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-003,Visit 6,6,2016-08-19,329,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-003,Unscheduled 6.1,6.1,2016-08-27,337,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-004,Screening,0,2015-10-29,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-004,Screening,0,2015-10-29,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-007,Screening,0,2015-07-07,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-007,Screening,0,2015-07-07,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-008,Screening,0,2015-10-12,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-008,Screening,0,2015-10-12,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-008,Unscheduled 0.1,0.1,2015-10-20,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-008,Unscheduled 0.1,0.1,2015-10-20,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-008,Visit 1,1,2015-12-12,62,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-008,Unscheduled 1.1,1.1,2015-12-20,70,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+05-008,Visit 2,2,2016-01-31,112,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-008,Visit 3,3,2016-03-23,164,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-008,Visit 6,6,2016-09-16,341,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+05-009,Screening,0,2015-12-16,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-009,Screening,0,2015-12-16,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-009,Visit 1,1,2016-02-10,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-009,Visit 1,1,2016-02-10,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-009,Visit 2,2,2016-03-31,107,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-009,Visit 2,2,2016-03-31,107,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,NE,4,0.05,#969696
+05-009,Visit 3,3,2016-06-06,174,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-009,Visit 3,3,2016-06-06,174,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-009,Visit 4,4,2016-07-22,220,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-010,Screening,0,2015-02-06,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-010,Screening,0,2015-02-06,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-010,Visit 1,1,2015-04-05,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-010,Visit 1,1,2015-04-05,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-010,Visit 2,2,2015-06-02,117,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-010,Visit 2,2,2015-06-02,117,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-010,Visit 3,3,2015-07-21,166,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-010,Visit 3,3,2015-07-21,166,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-010,Visit 4,4,2015-09-14,221,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-010,Visit 5,5,2015-11-08,276,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-010,Visit 6,6,2016-01-06,335,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-010,End of Study,7,2016-02-05,365,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-011,Screening,0,2015-02-04,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-011,Screening,0,2015-02-04,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-011,Visit 1,1,2015-04-07,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-011,Visit 1,1,2015-04-07,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-012,Screening,0,2015-04-18,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-012,Screening,0,2015-04-18,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-012,Visit 1,1,2015-06-05,49,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-012,Visit 1,1,2015-06-05,49,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-012,Visit 2,2,2015-08-11,116,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-012,Visit 2,2,2015-08-11,116,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-012,Visit 3,3,2015-09-25,161,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+05-012,Visit 4,4,2015-11-30,227,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-012,Visit 5,5,2016-01-16,274,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-012,Visit 6,6,2016-03-21,339,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-013,Screening,0,2015-10-22,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-013,Screening,0,2015-10-22,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-013,Unscheduled 0.1,0.1,2015-10-30,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-013,Unscheduled 0.1,0.1,2015-10-30,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-013,Visit 1,1,2015-12-15,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-013,Visit 2,2,2016-02-08,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-013,Visit 3,3,2016-04-05,167,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-014,Screening,0,2015-07-01,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-014,Screening,0,2015-07-01,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-014,Visit 2,2,2015-10-14,106,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-014,Visit 2,2,2015-10-14,106,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-014,Visit 3,3,2015-12-15,168,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-015,Screening,0,2015-01-11,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-015,Screening,0,2015-01-11,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-015,Visit 1,1,2015-03-07,56,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-015,Visit 1,1,2015-03-07,56,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-015,Visit 2,2,2015-04-28,108,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-015,Visit 2,2,2015-04-28,108,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-015,Visit 4,4,2015-08-19,221,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-016,Screening,0,2015-06-15,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-016,Screening,0,2015-06-15,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-017,Screening,0,2015-07-03,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-017,Screening,0,2015-07-03,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-017,Visit 1,1,2015-08-28,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-017,Visit 1,1,2015-08-28,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-017,Unscheduled 1.1,1.1,2015-09-05,65,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-017,Visit 2,2,2015-10-18,108,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-017,Visit 3,3,2015-12-13,164,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-017,Visit 4,4,2016-02-18,231,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-018,Screening,0,2015-12-14,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-018,Screening,0,2015-12-14,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-018,Visit 1,1,2016-02-03,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NE,2,0.05,#969696
+05-018,Visit 1,1,2016-02-03,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-018,Visit 2,2,2016-04-01,110,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-018,Visit 2,2,2016-04-01,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-018,Visit 3,3,2016-05-28,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-018,Visit 3,3,2016-05-28,167,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-019,Screening,0,2015-05-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-019,Screening,0,2015-05-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-019,Visit 1,1,2015-07-06,55,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-019,Visit 1,1,2015-07-06,55,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-019,Visit 2,2,2015-08-29,109,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-019,Visit 3,3,2015-10-26,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-020,Screening,0,2015-04-21,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-020,Screening,0,2015-04-21,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-020,Visit 1,1,2015-06-11,52,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-020,Visit 1,1,2015-06-11,52,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-020,Unscheduled 1.1,1.1,2015-06-19,60,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-020,Visit 2,2,2015-08-12,114,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-021,Screening,0,2015-01-20,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-021,Screening,0,2015-01-20,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-021,Visit 1,1,2015-03-14,54,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-021,Visit 1,1,2015-03-14,54,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-021,Visit 2,2,2015-05-16,117,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-022,Screening,0,2015-01-10,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-022,Screening,0,2015-01-10,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-022,Visit 1,1,2015-03-13,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-022,Visit 1,1,2015-03-13,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-022,Visit 2,2,2015-04-30,111,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-022,Visit 2,2,2015-04-30,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-023,Screening,0,2015-08-15,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-023,Screening,0,2015-08-15,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-023,Visit 2,2,2015-12-03,111,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-023,Visit 2,2,2015-12-03,111,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-023,Visit 3,3,2016-01-31,170,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-023,Visit 3,3,2016-01-31,170,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-023,Visit 4,4,2016-03-29,228,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-023,Visit 4,4,2016-03-29,228,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-024,Screening,0,2015-11-17,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-024,Screening,0,2015-11-17,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-025,Screening,0,2015-02-28,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-025,Screening,0,2015-02-28,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-025,Unscheduled 0.1,0.1,2015-03-08,9,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-025,Unscheduled 0.1,0.1,2015-03-08,9,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-025,Unscheduled 0.2,0.2,2015-03-15,16,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-025,Visit 1,1,2015-04-29,61,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-026,Screening,0,2015-01-26,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-026,Screening,0,2015-01-26,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-026,Visit 1,1,2015-03-23,57,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,PDc,4,0.2,#b2182b
+05-026,Visit 1,1,2015-03-23,57,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-026,Visit 2,2,2015-05-15,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-026,Visit 3,3,2015-07-15,171,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-027,Screening,0,2015-05-28,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-027,Screening,0,2015-05-28,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-027,Visit 1,1,2015-07-16,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-027,Visit 1,1,2015-07-16,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-027,Visit 2,2,2015-09-17,113,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-027,Visit 2,2,2015-09-17,113,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3
+05-027,Visit 3,3,2015-11-13,170,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-027,Visit 3,3,2015-11-13,170,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-027,Visit 4,4,2016-01-01,219,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-027,Visit 6,6,2016-04-25,334,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-028,Screening,0,2015-12-01,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-028,Screening,0,2015-12-01,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-028,Visit 1,1,2016-01-19,50,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-028,Visit 1,1,2016-01-19,50,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,SD,2,0.35,#92c5de
+05-028,Visit 3,3,2016-05-15,167,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-028,Visit 3,3,2016-05-15,167,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PD,5,0.25,#b2182b
+05-028,Visit 4,4,2016-07-12,225,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-029,Screening,0,2015-10-02,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-029,Screening,0,2015-10-02,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-029,Unscheduled 1.1,1.1,2015-12-03,63,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-029,Unscheduled 1.1,1.1,2015-12-03,63,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-030,Screening,0,2015-11-13,1,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,UN,1,0,#bdbdbd
+05-030,Screening,0,2015-11-13,1,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,UN,3,0,#bdbdbd
+05-030,Visit 1,1,2016-01-10,59,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-030,Visit 1,1,2016-01-10,59,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,CR,0,0.1,#2166ac
+05-030,Visit 2,2,2016-03-01,110,PCTPRESP,PCWG3 Timepoint Response (Central assessment),PCWG SCHER PROSTATE CANCER 2016,NON-PD,0,0.7,#92c5de
+05-030,Visit 2,2,2016-03-01,110,BOR,Best Overall Response (RECIST 1.1),RECIST 1.1,PR,1,0.25,#4393c3

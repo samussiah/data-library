@@ -11,21 +11,9 @@ set.seed(2357)
     dm <- fread('../dm.csv')
     sv <- fread('../sv.csv')
     responses <- fread('../../data-dictionaries/responses.csv')
-#    RECIST 1.1
-#    INDEPENDENT ASSESSOR
-#    BOR
-#    Best Overall Response (RECIST 1.1)
-#    CR, PR, SD, UN, NE, PD
-#    
-#    PCWG SCHER PROSTATE CANCER 2016
-#    INDEPENDENT ASSESSOR
-#    PCTPRESP
-#    PCWG3 Timepoint Response (Central assessment)
-#    NON-PD, UN, NE, PDu, PDc
+    recist <- responses %>% filter(grepl('recist', RSCAT, TRUE))
+    pcwg <- responses %>% filter(grepl('pcwg', RSCAT, TRUE))
     
-#,Target Response,RECIST 1.1,CR,0,.10,#2166ac
-#,Target Response,RECIST 1.1,PR,1,.25,#4393c3
-#,Target Response,RECIST 1.1,SD,2,.35,#92c5de
 ### Derive data
     dm_sv <- dm %>%
         filter(SBJTSTAT %in% c('Ongoing', 'Completed')) %>%
@@ -37,7 +25,8 @@ set.seed(2357)
             SVSTATUS == 'Completed'
         )
 
-    rs <- dm_sv %>%
+    ### RECIST
+    rs_recist <- dm_sv %>%
         rename(
             RSDT = SVDT,
             RSDY = SVDY
@@ -46,15 +35,15 @@ set.seed(2357)
             RSSTRESC = case_when(
                 VISITNUM == 0 ~ 'UN',
                 TRUE ~ sample(
-                    responses$RSSTRESC %>% subset(!. %in% c('UN')),
+                    recist$RSSTRESC %>% subset(!. %in% c('UN')),
                     nrow(dm_sv),
                     replace = TRUE,
-                    prob = responses %>% filter(RSSTRESC != 'UN') %>% pull(RSPROB)
+                    prob = recist %>% filter(RSSTRESC != 'UN') %>% pull(RSPROB)
                 )
             )
         ) %>%
         left_join(
-            responses,
+            recist,
             by = c('RSSTRESC' = 'RSSTRESC')
         ) %>%
         group_by(USUBJID) %>%
@@ -66,6 +55,41 @@ set.seed(2357)
         ungroup %>%
         arrange(USUBJID, VISITNUM, RSTEST) %>%
         select(USUBJID, VISIT, VISITNUM, RSDT, RSDY, names(responses))
+
+    ### PCWG
+    rs_pcwg <- dm_sv %>%
+        rename(
+            RSDT = SVDT,
+            RSDY = SVDY
+        ) %>%
+        mutate(
+            RSSTRESC = case_when(
+                VISITNUM == 0 ~ 'UN',
+                TRUE ~ sample(
+                    pcwg$RSSTRESC %>% subset(!. %in% c('UN')),
+                    nrow(dm_sv),
+                    replace = TRUE,
+                    prob = pcwg %>% filter(RSSTRESC != 'UN') %>% pull(RSPROB)
+                )
+            )
+        ) %>%
+        left_join(
+            pcwg,
+            by = c('RSSTRESC' = 'RSSTRESC')
+        ) %>%
+        group_by(USUBJID) %>%
+        arrange(USUBJID, VISITNUM) %>%
+        mutate(
+            pd = match('PDc', RSSTRESC)
+        ) %>%
+        filter(row_number() <= pd | is.na(pd)) %>%
+        ungroup %>%
+        arrange(USUBJID, VISITNUM, RSTEST) %>%
+        select(USUBJID, VISIT, VISITNUM, RSDT, RSDY, names(responses))
+    
+    rs <- rs_recist %>%
+        bind_rows(rs_pcwg) %>%
+        arrange(USUBJID, VISITNUM, RSCAT)
 
 ### Output data
     fwrite(
